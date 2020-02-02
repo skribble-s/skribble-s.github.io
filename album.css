@@ -22,12 +22,12 @@ body {
 }
 
 .jumbotron .container {
-  max-width: 40rem;
+  max-width: 80rem;
 }
 
 .album {
   min-height: 50rem; /* Can be removed; just added for demo purposes */
-  padding-top: 5rem;
+  padding-top: 3rem;
   padding-bottom: 3rem;
   background-color: #f7f7f7;
 }
