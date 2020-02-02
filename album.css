@@ -22,7 +22,7 @@ body {
 }
 
 .jumbotron .container {
-  max-width: 80rem;
+  max-width: 40rem;
 }
 
 .album {
@@ -34,7 +34,7 @@ body {
 
 .card {
   float: left;
-  width: 33.333%;
+  width: 75%;
   padding: .75rem;
   margin-bottom: 2rem;
   border: 0;
