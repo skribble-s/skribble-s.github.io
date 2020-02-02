@@ -27,8 +27,8 @@ body {
 
 .album {
   min-height: 50rem; /* Can be removed; just added for demo purposes */
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
   background-color: #f7f7f7;
 }
 
@@ -49,8 +49,8 @@ body {
 }
 
 footer {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
 }
 
 footer p {
